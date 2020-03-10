@@ -1,0 +1,26 @@
+.vakanser{
+	padding-bottom: 0;
+}
+ .info{
+ 	margin-bottom: 0px;
+ 	background-color: white;
+    border-bottom: solid 1px;
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.middle-content h2 {
+	margin-top: 50px;
+	padding-left: 20px;
+}
